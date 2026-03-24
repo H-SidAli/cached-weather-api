@@ -172,7 +172,7 @@ it's about designing systems that balance speed, memory, and consistency.
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻
 
 Learning project covering:
 - TypeScript
